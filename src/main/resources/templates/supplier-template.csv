@@ -1,0 +1,11 @@
+id;documentType;documentNumber;businessName;contactName;phone;email;address;geographicLocationId;productCategories;iso9001;senasaReg
+;RUC;20501234567;Agroquímicos del Norte S.A.C.;Pedro Ramírez;987654321;ventas@agronorte.pe;Av. Industrial 234, Trujillo;1;Herbicidas|Insecticidas;true;RS-001
+;RUC;20602345678;Fertilizantes Andinos E.I.R.L.;Ana Torres;976543210;contacto@fertandinos.pe;Jr. Comercio 456, Huancayo;2;Fertilizantes;false;RS-002
+;RUC;20703456789;Bioprotectores del Sur S.A.;Luis Mendoza;965432109;info@biosur.pe;Carretera Panamericana Km 45, Ica;3;Fungicidas|Bioestimulantes;true;RS-003
+;RUC;20804567890;Insumos Agrícolas Lima S.A.C.;María Flores;954321098;pedidos@insumoslima.pe;Av. La Marina 789, Lima;4;Insecticidas|Acaricidas;true;RS-004
+;RUC;20905678901;Distribuidora AgroPerú E.I.R.L.;Carlos Soto;943210987;dist@agroperu.pe;Calle Real 321, Arequipa;5;Herbicidas|Fertilizantes;false;RS-005
+;RUC;21006789012;Quimsa Agro S.A.C.;Rosa Vargas;932109876;ventas@quimsaagro.pe;Av. Ejercito 654, Cusco;6;Fungicidas|Insecticidas;true;RS-006
+;RUC;21107890123;Tecnoagro Piura S.A.;Jorge Castillo;921098765;info@tecnoagro.pe;Jr. Amazonas 987, Piura;7;Nematicidas|Bioestimulantes;true;RS-007
+;RUC;21208901234;AgroSol Chiclayo E.I.R.L.;Carmen López;910987654;agrosol@chiclayo.pe;Av. Venezuela 147, Chiclayo;8;Herbicidas;false;RS-008
+;RUC;21309012345;Proveedora Nacional de Agroquímicos S.A.;Roberto Díaz;909876543;pna@agroquimicos.pe;Carretera Central Km 12, Lima;1;Herbicidas|Fungicidas|Insecticidas;true;RS-009
+;RUC;21400123456;Green Agro Solutions S.A.C.;Patricia Nuñez;998765432;green@agrosolutions.pe;Av. Universitaria 852, Lima;4;Bioestimulantes|Fertilizantes;true;RS-010

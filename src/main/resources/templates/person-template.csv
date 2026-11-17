@@ -1,0 +1,11 @@
+id;documentType;documentNumber;firstNames;lastNames;phone;email;role;address;geographicLocationId;initialPassword
+;DNI;72345678;Juan Carlos;Pérez Gómez;987654321;juan.perez@ejemplo.com;CUSTOMER;Av. 28 de Julio 123, San Vicente;1;
+;RUC;20601234567;Agropecuaria del Sur S.A.C.;-;998877665;contacto@agrosur.pe;CUSTOMER;Panamericana Sur Km 140, Imperial;2;
+;DNI;45891234;María Elena;Rosas Quiroz;974512368;maria.rosas@ejemplo.com;CUSTOMER;Jr. Comercio 450, Mala;3;
+;RUC;20509876543;Insumos Agrícolas Cañete E.I.R.L.;-;965412893;ventas@insumoscanete.com;CUSTOMER;Carretera a Lunahuaná Km 4;1;
+;DNI;70112233;Roberto;López Soto;945678123;roberto.lopez@ejemplo.com;CUSTOMER;Av. Mariscal Benavides 789, San Vicente;2;
+;DNI;41239874;Carlos;Mendoza Ruiz;912345678;carlos.vendedor@farmagro.pe;VENDOR;;;
+;DNI;48765412;Lucía;Torres Vega;934567891;lucia.almacen@farmagro.pe;WAREHOUSE;;;
+;DNI;74125896;Diego;Flores Castro;956789123;diego.delivery@farmagro.pe;DELIVERY;;;
+;CE;00129845;Andrés;Morales Silva;978912345;andres.morales@ejemplo.com;CUSTOMER;Calle Real 230, Chilca;3;
+;RUC;20487569123;Fértiles del Valle Verde S.A.;-;989123456;gerencia@valleverde.pe;CUSTOMER;Fundo San José Lote 12, Quilmaná;1;

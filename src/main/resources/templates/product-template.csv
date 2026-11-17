@@ -1,0 +1,11 @@
+id;name;brand;sanitaryRegistration;description;activeIngredient;toxicityLevel;requiresLicense;categories;price;imageUrl
+;Glifosato 48 SL;Bayer;SENASA-T01;Herbicida sistémico de amplio espectro para malezas anuales y perennes;Glifosato 48%;III;false;Herbicidas;45.00;
+;Clorpirifos 50 EC;Syngenta;SENASA-T02;Insecticida organofosforado de contacto e ingestión para plagas de suelo;Clorpirifos 50%;II;true;Insecticidas|Pesticidas;120.00;
+;Mancozeb 80 WP;Nufarm;SENASA-T03;Fungicida de contacto de amplio espectro para enfermedades foliares;Mancozeb 80%;III;false;Fungicidas;22.50;
+;Imidacloprid 35 SC;BASF;SENASA-T04;Insecticida sistémico neonicotinoide para control de áfidos y mosca blanca;Imidacloprid 35%;II;true;Insecticidas;98.00;
+;Urea 46% Granulada;Yara;SENASA-T05;Fertilizante nitrogenado granulado de alta concentración para cereales y hortalizas;Nitrógeno 46%;IV;false;Fertilizantes;65.00;
+;Abamectina 1.8 EC;Adama;SENASA-T06;Acaricida e insecticida de origen biológico para araña roja y minadores;Abamectina 1.8%;II;true;Acaricidas|Insecticidas;185.00;
+;Cobre Metalico 50 WP;Corteva;SENASA-T07;Fungicida cúprico de contacto para mildiu y podredumbres bacterianas;Cobre metálico 50%;IV;false;Fungicidas;38.00;
+;Lambda Cihalotrina 10 CS;Syngenta;SENASA-T08;Insecticida piretroide de contacto e ingestión para trips y queresas;Lambda-cihalotrina 10%;II;true;Insecticidas;75.00;
+;Fosfato Diamónico DAP;Mosaic;SENASA-T09;Fertilizante fosfatado granulado para desarrollo radicular y germinación;P2O5 46% + N 18%;IV;false;Fertilizantes;95.00;
+;Metomilo 21.5 SL;FMC;SENASA-T10;Insecticida carbamato de contacto e ingestión para gusanos y orugas;Metomilo 21.5%;I;true;Insecticidas|Pesticidas;210.00;
